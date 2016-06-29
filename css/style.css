@@ -1,0 +1,33 @@
+.flaticon::before{
+	
+	
+	
+	border: 0.2em solid #CCC;
+	background:linear-gradient(
+
+	rgba(204,204,204,0.85),
+    rgba(204,204,204,0.85)
+   ) no-repeat center top;
+}
+
+.flaticon{
+	
+margin-left: 0;
+	padding:0;
+	border-radius: 0;
+}
+
+.flaticon:before{
+	
+	margin-left: 0;
+	
+	
+}
+
+.flaticon1{
+padding-right:15px;
+}
+.flaticon1:before{
+margin:0;
+}
+
